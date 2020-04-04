@@ -95,7 +95,7 @@ Kevlarium can be picked at the `Gather Kevlarium` point on your map. This proces
 You will recieve unrefined kevlarium and gathering experience on completion.
 
 ## Refining Kevlarium
-Kevlarium can be refined at the `Refine Kevlarium` point on your map. Simply complete the minigame and your unrefined vigorium will be exchanged for the illegal drug known as Kevlarium.
+Kevlarium can be refined at the `Refine Kevlarium` point on your map. Simply complete the minigame and your unrefined kevlarium will be exchanged for the illegal drug known as Kevlarium.
 
 You will recieve gathering experience and crafting experience upon completion. As well as refined kevlarium.
 
